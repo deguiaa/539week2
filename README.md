@@ -1,3 +1,2 @@
-# 539week2
-
-<h1> 1/18 Discussion Week 2 Activity </h1>
+# ccp_starter_code
+Starter Code for your CCP 
